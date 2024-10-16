@@ -10,10 +10,7 @@ This project is a machine learning-based email spam detection system built using
 5. [Project Structure](#project-structure)
 6. [Model Overview](#model-overview)
 7. [Dataset](#dataset)
-8. [Usage](#usage)
-9. [Future Enhancements](#future-enhancements)
-10. [Contributing](#contributing)
-11. [License](#license)
+8. [License](#license)
 
 ## Introduction
 This project demonstrates how to build a machine learning model to classify emails as **spam** or **ham** (not spam) and visualize the results using a **Streamlit** web app. The model uses a variety of natural language processing (NLP) techniques and classification algorithms.
